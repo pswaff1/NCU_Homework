@@ -1,3 +1,15 @@
+//
+// MySorts.cs
+// 
+// A program to explore the runtime of various sorting algorithms
+//
+// NCU.edu
+// School of Business & Technology Management
+// TIM5110
+//
+// Author: Patrick Swafford
+// Date: 29 January 2023
+
 using System;
 
 namespace week5_1 {
