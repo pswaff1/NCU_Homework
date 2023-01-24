@@ -5,7 +5,7 @@
 //
 // NCU.edu
 // School of Business & Technology Management
-// TIM5110
+// TIM6110
 //
 // Author: Patrick Swafford
 // Date: 29 January 2023
