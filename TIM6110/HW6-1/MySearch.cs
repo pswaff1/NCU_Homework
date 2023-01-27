@@ -25,8 +25,7 @@ namespace Week6_1 {
 
             return -1;
         }
-        public static int binarySearch(int [] arr, int key) {
-            
+        public static int binarySearch(int [] arr, int key) {            
             return binarySearch(arr, key, 0, arr.Length - 1);
         }
         private static int binarySearch(int [] arr, int key, int low, int high) {
@@ -42,7 +41,6 @@ namespace Week6_1 {
                 if (key > arr[med])
                     return binarySearch(arr, key, low + 1, high);
             }
-
             return -1;
 
         }
